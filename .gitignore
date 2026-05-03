@@ -1,0 +1,18 @@
+# Python
+__pycache__/
+*.pyc
+venv/
+
+# Data files
+datasets/
+.ipynb_checkpoints/
+*.csv
+store/
+*.pkl
+*.csv
+
+# Streamlit
+.streamlit/
+
+# OS
+.DS_Store
